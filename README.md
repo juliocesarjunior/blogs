@@ -13,3 +13,9 @@ Things you may want to cover:
 
 * bundle exec rails webpacker:install
 
+* rake assets:precompile
+
+* yarn add @babel/plugin-proposal-private-methods --dev
+
+* npm install --save-dev @babel/plugin-proposal-private-property-in-object
+
